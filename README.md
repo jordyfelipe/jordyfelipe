@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m Jordy, and my focus is to be a programmer that can develop clean codes with coding best practices.
+I’m Jordy, and my focus is to be a programmer that can develop clean codes systems with coding best practices.
 
 - 🌱 I’m currently learning Spring Boot and React JS.
 
