@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 I’m Jordy, and my focus is to be a programmer that can develop clean codes systems with coding best practices.
 
-- 🌱 I’m currently learning Spring Boot and React JS.
+- 🌱 I’m currently learning Spring Boot, React JS and Angular.
+- 📫 How to reach me: https://www.linkedin.com/in/jordy-felipe-da-silva-174506159
 
