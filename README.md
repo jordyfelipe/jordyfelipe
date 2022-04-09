@@ -11,7 +11,9 @@ I’m Jordy, and my focus is to be a programmer that can develop clean codes sys
   <a href="https://github.com/jordyfelipe">
   <img  width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=jordyfelipe&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true"/>
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyfelipe&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=react"/>
-  
+ 
+ ##
+ 
   ### Technologies, languages & tools: 
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
@@ -24,7 +26,6 @@ I’m Jordy, and my focus is to be a programmer that can develop clean codes sys
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  
 </div>
   
   ##
