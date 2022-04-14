@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Jordy, and my focus is to be a developer that can write clean codes systems with coding best practices.
+I’m Jordy, and my focus is to be a developer that write clean codes systems with coding best practices.
 -  I’m currently working with backend development at Senior Sistemas SA.
 -  I’m currently learning Spring Boot, Angular and Microservices Architecture.
 
