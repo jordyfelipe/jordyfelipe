@@ -6,14 +6,6 @@ I’m Jordy, and my focus is to be a programmer that can develop clean codes sys
 
  ##
 
-### Github Status
-
-  <a href="https://github.com/jordyfelipe">
-  <img  width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=jordyfelipe&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyfelipe&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=dark"/>
- 
- ##
- 
   ### Technologies, languages & tools: 
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
