@@ -9,7 +9,7 @@ I’m Jordy, and my focus is to be a developer that write clean codes with codin
  ### Github Status
 
   <a href="https://github.com/jordyfelipe">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyfelipe&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=white"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyfelipe&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=white"/>
  
  ##
 
